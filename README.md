@@ -4,7 +4,7 @@
 
 Take Squishy Man across this platformer and dodge the red bouncy enemies and platform your way to the end of the game! 
 
-To play this game, click here!
+To play this game, click <a href="https://dwlam8790.github.io/squishyman/">here</a>!
 
 ### Game Engine: Unity <br>
 Art and Audio: Unity
