@@ -1,6 +1,6 @@
 # squishyman
 
-### Welcome to my first Unity Game Squishy Man!
+### Welcome to my first Unity Game: Squishy Man!
 
 Take Squishy Man across this platformer and dodge the red bouncy enemies and platform your way to the end of the game! 
 
